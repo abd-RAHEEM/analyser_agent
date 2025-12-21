@@ -1,0 +1,4 @@
+ProductID,CurrentStock,ReorderLevel,LeadTime
+P001,150,50,3
+P002,20,30,5
+P003,500,100,2
