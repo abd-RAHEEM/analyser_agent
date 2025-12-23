@@ -1,4 +1,4 @@
-# 📊 MSME Digital Analyst Agent
+#  MSME Digital Analyst Agent
 
 A powerful, AI-driven business intelligence dashboard designed for Micro, Small, and Medium Enterprises (MSMEs). This agent integrates fragmented data sources—Sales, Inventory, and Marketing—to provide real-time causal insights and actionable recommendations using Google's Gemini 2.5 Flash model.
 
@@ -45,7 +45,7 @@ Follow these steps to get the agent running on your local machine.
 
 ### 2. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/abd-RAHEEM/analyser_agent
 cd digital-analyst-agent
 ```
 
